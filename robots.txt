@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://hairsalon-marimo.github.io
+Host: https://hairsalon-marimo.github.io/
 
 # Sitemaps
 Sitemap: https://hairsalon-marimo.github.io/sitemap.xml
